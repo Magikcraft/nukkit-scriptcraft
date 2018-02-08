@@ -1,0 +1,188 @@
+2018-2-8 15:14:42 [INFO] Loading nukkit.yml...
+2018-2-8 15:14:42 [INFO] Loading server properties...
+2018-2-8 15:14:42 [INFO] Selected English (eng) as the base language
+2018-2-8 15:14:42 [INFO] Starting Minecraft: PE server version v1.2.2
+2018-2-8 15:14:42 [INFO] Opening server on 0.0.0.0:19132
+2018-2-8 15:14:42 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2018-2-8 15:14:42 [INFO] Nukkit is distributed under the LGPL License
+2018-2-8 15:14:42 [INFO] Loading recipes...
+2018-2-8 15:14:42 [INFO] Loaded 415 recipes.
+2018-2-8 15:14:42 [INFO] Successfully loaded 0 resource packs
+2018-2-8 15:14:42 [INFO] Loading Pokkit v0.5
+2018-2-8 15:14:42 [INFO] [Pokkit] This server is running Nukkit version v1.2.2 (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+2018-2-8 15:14:42 [INFO] [Pokkit] Server permissions file /Users/sitapati/workspace/Magikcraft/Nukkit/plugins/Pokkit/permissions.yml is empty, ignoring it
+2018-2-8 15:14:42 [INFO] [Pokkit] Set PluginClassLoader as parallel capable
+2018-2-8 15:14:43 [INFO] Preparing level "world"
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Directory /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft does not exist.
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Initializing /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft directory with contents from plugin archive.
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/command.js (NE)
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/console.js (NE)
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/events-bukkit.js (NE)
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/events-canary.js (NE)
+2018-2-8 15:14:43 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/events-helper-bukkit.js (NE)
+2018-2-8 15:14:44 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/events-helper-canary.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/events.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/find.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/java-utils.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/js-patch.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/json2.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/legacy-check.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/nashorn-type.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/persistence.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/plugin.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/readme.md (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/require.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/scriptcraft.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/tabcomplete-jsp.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/tabcomplete.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/task-bukkit.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/lib/task-canary.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/readme.md (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/alias/alias.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/arrows.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/at.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/classroom.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/commando/commando-test.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/commando/commando.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/castle.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/chessboard.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/cottage.js (NE)
+2018-2-8 15:14:45 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/dancefloor.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/fort.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/hangtorch.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/lcd-clock.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/logo.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/mazegen.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/rainbow.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/redstonewire.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/spawn.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/spiral_stairs.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/contrib/temple.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/drone/drone.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/entities.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-1-hello-module.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-2-hello-command.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-3-hello-ops-only.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-4-hello-parameters.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-5-hello-using-module.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-6-hello-player.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/examples/example-7-hello-events.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/homes/homes.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/minigames/NumberGuess.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/minigames/cow-clicker.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/signs/examples.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/plugins/spawn.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/at.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/block-colors.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/blockhelper.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/blocks.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/fireworks.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/input.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/inventory.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/items.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/recipes.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/bukkit/sounds.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/fireworks.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/input.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/inventory.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/items.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/recipes.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/canary/sounds.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/classroom/index.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/arc.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/bed.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/blocktype.js (NE)
+2018-2-8 15:14:46 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/copypaste.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/cylinders.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/doors.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/firework.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/garden.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/index.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/ladder.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/movement.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/prism.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/rand.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/sign.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/sphere.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/stairs.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/test.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/drone/trees.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/entities.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/fireworks.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/http/package.json (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/http/request.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/input.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/inventory/index.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/items.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/lightning.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/minigames/scoreboard.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/recipes.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/sc-mqtt.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/signs/menu.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/signs/package.json (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/signs/signs.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/slash.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/sounds.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/spawn.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/teleport.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/underscore.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/utils/package.json (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/utils/string-exts.js (NE)
+2018-2-8 15:14:47 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/utils/utils.js (NE)
+2018-2-8 15:14:48 [INFO] [Pokkit] [scriptcraft] Unzipping /Users/sitapati/workspace/Magikcraft/Nukkit/scriptcraft/modules/watcher.js (NE)
+2018-2-8 15:14:49 [WARNING] [Pokkit] [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+2018-2-8 15:14:49 [INFO] Enabling Pokkit v0.5
+2018-2-8 15:14:49 [INFO] Starting GS4 status listener
+2018-2-8 15:14:49 [INFO] Setting query port to 19132
+2018-2-8 15:14:49 [INFO] Query is running on 0.0.0.0:19132
+2018-2-8 15:14:49 [INFO] Default game type: Survival Mode
+2018-2-8 15:14:49 [INFO] Done (7.7s)! For help, type "help" or "?"
+2018-2-8 15:14:49 [INFO] [Pokkit] [scriptcraft] js-patch setTimeout() test complete
+2018-2-8 15:14:58 [INFO] function _refresh( skipOpCheck ) {
+2018-2-8 15:14:58 [INFO]     if (!skipOpCheck && typeof self !== 'undefined') {
+2018-2-8 15:14:58 [INFO]       if (!_isOp(self))
+2018-2-8 15:14:58 [INFO]         return echo(self, 'Only operators can refresh()');
+2018-2-8 15:14:58 [INFO]     }
+2018-2-8 15:14:58 [INFO] 
+2018-2-8 15:14:58 [INFO]     if (__plugin.canary){
+2018-2-8 15:14:58 [INFO]       var pluginName = __plugin.name;
+2018-2-8 15:14:58 [INFO]       Canary.manager().disablePlugin( pluginName );
+2018-2-8 15:14:58 [INFO]       Canary.manager().enablePlugin( pluginName );
+2018-2-8 15:14:58 [INFO]     } else {
+2018-2-8 15:14:58 [INFO]       __plugin.pluginLoader.disablePlugin( __plugin );
+2018-2-8 15:14:58 [INFO]       org.bukkit.event.HandlerList['unregisterAll(org.bukkit.plugin.Plugin)']( __plugin );
+2018-2-8 15:14:58 [INFO]       server.scheduler.cancelTasks( __plugin );
+2018-2-8 15:14:58 [INFO]       __plugin.pluginLoader.enablePlugin( __plugin );
+2018-2-8 15:14:58 [INFO]     }
+2018-2-8 15:14:58 [INFO]   }
+2018-2-8 15:15:08 [INFO] [Pokkit] [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+2018-2-8 15:15:08 [INFO] [Pokkit] [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+2018-2-8 15:15:08 [WARNING] [Pokkit] Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+2018-2-8 15:15:08 [WARNING] [Pokkit] [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+2018-2-8 15:15:08 [INFO] [Pokkit] [scriptcraft] js-patch setTimeout() test complete
+2018-2-8 15:15:19 [ERROR] [Pokkit] [scriptcraft] Error while trying to evaluate javascript: console.log(Hello world), Error: javax.script.ScriptException: <eval>:1:18 Expected , but found world
+console.log(Hello world)
+                  ^ in <eval> at line number 1 at column number 18
+2018-2-8 15:15:19 [INFO] Error while trying to evaluate javascript: console.log(Hello world), Error: javax.script.ScriptException: <eval>:1:18 Expected , but found world
+2018-2-8 15:15:19 [INFO] console.log(Hello world)
+2018-2-8 15:15:19 [INFO]                   ^ in <eval> at line number 1 at column number 18
+2018-2-8 15:15:19 [ERROR] [Pokkit] [scriptcraft] javax.script.ScriptException: javax.script.ScriptException: <eval>:1:18 Expected , but found world
+console.log(Hello world)
+                  ^ in <eval> at line number 1 at column number 18 in <eval> at line number 635 at column number 8
+2018-2-8 15:15:19 [INFO] javax.script.ScriptException: <eval>:1:18 Expected , but found world
+2018-2-8 15:15:19 [INFO] console.log(Hello world)
+2018-2-8 15:15:19 [INFO]                   ^ in <eval> at line number 1 at column number 18 in <eval> at line number 635 at column number 8
+2018-2-8 15:15:19 [INFO] Usage: /<command> Javascript code
+2018-2-8 15:15:34 [INFO] [Pokkit] [scriptcraft] Hello
+2018-2-8 15:16:40 [INFO] VisedPenguin512[/10.20.20.174:52824] logged in with entity id 1 at (world, 130.5421, 76.0, 125.3771)
+2018-2-8 15:16:41 [INFO] VisedPenguin512 joined the game
+2018-2-8 15:16:56 [INFO] [nl.rutgerkok.pokkit.player.PokkitPlayer@b9ed1869]
+2018-2-8 15:17:28 [ERROR] [Pokkit] [scriptcraft] Error while trying to evaluate javascript: __plugin.server.getOnlinePlayers().forEach(function(player){echo(player,Hello)}), Error: javax.script.ScriptException: ReferenceError: "Hello" is not defined in <eval> at line number 1
+2018-2-8 15:17:28 [INFO] Error while trying to evaluate javascript: __plugin.server.getOnlinePlayers().forEach(function(player){echo(player,Hello)}), Error: javax.script.ScriptException: ReferenceError: "Hello" is not defined in <eval> at line number 1
+2018-2-8 15:17:28 [ERROR] [Pokkit] [scriptcraft] javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "Hello" is not defined in <eval> at line number 1 in <eval> at line number 635 at column number 8
+2018-2-8 15:17:28 [INFO] javax.script.ScriptException: ReferenceError: "Hello" is not defined in <eval> at line number 1 in <eval> at line number 635 at column number 8
+2018-2-8 15:17:28 [INFO] Usage: /<command> Javascript code
+2018-2-8 15:18:39 [INFO] VisedPenguin512 left the game
+2018-2-8 15:18:39 [INFO] VisedPenguin512[/10.20.20.174:52824] logged out due to client disconnect
+2018-2-8 15:18:47 [INFO] %commands.generic.unknown
